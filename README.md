@@ -20,8 +20,8 @@ Termux uygulaması açıldığında giriş yapmak için `proot-distro login pard
 Depoları güncellemek için `apt update`
 Paketleri güncellemek için `apt upgrade`
 
-Yorum yazmak veya sorun yaşarsanız https://github.com/dkey5/TermuxPardus/issues
-İşinize yarabilecek belgeler https://www.pardus.org.tr/belgeler
+Yorum yazmak için veya sorun yaşarsanız https://github.com/dkey5/TermuxPardus/issues
+İşinize yarayabilecek belgeler https://www.pardus.org.tr/belgeler
 
 ## Ekran Görüntüleri
 ![ekran](https://raw.githubusercontent.com/dkey5/TermuxPardus/main/ekran.jpeg)
