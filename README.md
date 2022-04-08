@@ -19,7 +19,7 @@ Termux uygulaması açıldığında giriş yapmak için `proot-distro login pard
 
 1. Depoları güncellemek için `apt update`
 2. Paketleri güncellemek için `apt upgrade`
-3. Paket kurmak için `apt install <paket-adı>
+3. Paket kurmak için `apt install <paket-adı>`
 
 Yorum yazmak için veya sorun yaşarsanız https://github.com/dkey5/TermuxPardus/issues
  
