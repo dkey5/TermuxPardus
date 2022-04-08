@@ -17,10 +17,12 @@ Bu bash betiği Pardus işletim sistemini Termux uygulamasına kurar.
 ## Kullanım
 Termux uygulaması açıldığında giriş yapmak için `proot-distro login pardus` yazın.
 
-Depoları güncellemek için `apt update` \n
-Paketleri güncellemek için `apt upgrade`
+1. Depoları güncellemek için `apt update`
+2. Paketleri güncellemek için `apt upgrade`
+3. Paket kurmak için `apt install <paket-adı>
 
 Yorum yazmak için veya sorun yaşarsanız https://github.com/dkey5/TermuxPardus/issues
+ 
 İşinize yarayabilecek belgeler https://www.pardus.org.tr/belgeler
 
 ## Ekran Görüntüleri
